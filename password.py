@@ -2,10 +2,10 @@ import os, sys
 
 print ("\033[1;32mSilahkan Masukkan Username & Password Anda")
 
-print ("\033[1;32matau silahkan Hubungi  Kuyapintar.bligspot.com ")
+print ("\033[1;32matau silahkan Hubungi 81227708390 ")
 
 
-print ("\033[1;32mScript Ini sekarang tidak gratis ")
+print ("\033[1;32mScript Ini premium Rp 10rb ")
 
 username = 'KUYA'      
 
