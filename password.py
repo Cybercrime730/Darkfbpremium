@@ -7,9 +7,9 @@ print ("\033[1;32matau silahkan Hubungi 81227708390 ")
 
 print ("\033[1;32mScript Ini premium Rp 10rb ")
 
-username = 'KUYA'      
+username = 'roy404'      
 
-password = 'PINTAR'
+password = 'cyber'
 
 
 
